@@ -1,4 +1,3 @@
-
 <?php
     if ( isset($_POST['url']) )
         echo '<iframe src="'.$_POST['url'].'" width="500" height="500"></iframe>';
